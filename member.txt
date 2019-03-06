@@ -1,3 +1,6 @@
 
 welcome to my new project where i am going to start in database.
 thank u
+
+
+lets create a new project where i am going to use grails, hadoop , mysql
